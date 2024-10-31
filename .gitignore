@@ -1,0 +1,59 @@
+# Ignore Python and Jupyter Notebook artifacts
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Dataset files
+# *.csv
+*.json
+*.xls
+*.xlsx
+*.db
+
+# Machine learning artifacts
+*.h5
+*.hdf5
+*.pickle
+*.joblib
+*.pb
+*.onnx
+
+# Ignore model outputs
+model/
+models/
+checkpoints/
+
+# Ignore configuration files
+*.yaml
+*.yml
+*.toml
+*.conf
+*.ini
+
+# Ignore large binary files
+*.zip
+*.tar.gz
+*.7z
+
+# Ignore environment variables
+.env
+
+# Logs and debug files
+*.log
+logs/
+
+# Jupyter Notebook output (optional)
+*.html
+# *.pdf
+
+# macOS, Windows, and Linux system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
