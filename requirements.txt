@@ -1,2 +1,14 @@
-pandas
-scikit-learn
+Here’s the list of libraries required:  
+
+1. `pandas`  
+2. `matplotlib.pyplot`  
+3. `seaborn`  
+4. `scipy.stats`  
+5. `sklearn.preprocessing.StandardScaler`  
+6. `sklearn.model_selection.train_test_split`  
+7. `sklearn.linear_model.LogisticRegression`  
+8. `sklearn.ensemble.RandomForestClassifier`  
+9. `sklearn.svm.SVC`  
+10. `sklearn.metrics`  
+11. `imblearn.over_sampling.SMOTE`  
+12. `numpy`  
